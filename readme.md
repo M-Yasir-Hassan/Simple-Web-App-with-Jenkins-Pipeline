@@ -46,7 +46,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```
-   git clone repo-link
+   git clone https://github.com/M-Yasir-Hassan/Simple-Web-App-with-Jenkins-Pipeline.git
    cd simple-web-app
    ```
 
