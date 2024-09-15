@@ -64,7 +64,7 @@ The `Jenkinsfile` in this repository defines the following stages:
 2. **Lint HTML**: Checks HTML for errors and best practices using HTMLHint
 3. **Lint CSS**: Checks CSS for errors and best practices using Stylelint
 4. **Lint JavaScript**: Checks JavaScript for errors and best practices using ESLint
-5. **Deploy**: Placeholder for deployment steps (to be customized based on your deployment strategy)
+5. **Deploy**: Placeholder for deployment steps
 
 ## Setup for Jenkins
 
